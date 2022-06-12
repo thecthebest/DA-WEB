@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "assets"
+		},
+		{
+			"name": "DA _Webpage",
+			"path": "..\\Data Analytics\\DA _Webpage"
+		},
+		{
+			"name": "images",
+			"path": "images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DA _Webpage"
+	}
+}
